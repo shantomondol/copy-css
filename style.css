@@ -149,9 +149,9 @@ h1 {
 }
 
 footer {
-    color: rgb(0, 0, 0);
     font-size: 25px;
-    padding: 30px 0;
-    margin-top: 19.7%;
+    font-family: 'Times New Roman', Times, serif;
+    color: rgb(0, 0, 0);
+    padding: 30px 0;        
     text-align: center;
 }
