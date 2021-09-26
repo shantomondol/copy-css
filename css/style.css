@@ -32,6 +32,10 @@ header {
     font-size: 50px;
 }
 
+.logo {
+    width: 50px;
+}
+
 
 /* iPad screen*/
 
@@ -61,6 +65,9 @@ header {
     }
     .intro h2 {
         font-size: 25px;
+    }
+    .logo {
+        width: 30px;
     }
 }
 
